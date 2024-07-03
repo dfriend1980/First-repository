@@ -1,2 +1,1 @@
-# First-repository
-first repository pizza
+# pizza
